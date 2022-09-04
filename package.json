@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basic",
+  "version": "1.0.0",
+  "description": "Learn to create a back-end application for beginner. Dicoding training: Belajar Membuat Aplikasi Back-End untuk Pemula.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhutomop/nodejs-basic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhutomop/nodejs-basic/issues"
+  },
+  "homepage": "https://github.com/mhutomop/nodejs-basic#readme"
+}
